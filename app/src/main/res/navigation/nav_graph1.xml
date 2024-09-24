@@ -1,0 +1,15 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/stateListFragment">
+
+    <fragment
+        android:id="@+id/stateListFragment"
+        android:name="com.tks.idt.ui.StateListFragment"
+        android:label="State List"
+        tools:layout="@layout/fragment_state_list">
+
+    </fragment>
+
+
+</navigation>

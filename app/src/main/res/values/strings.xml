@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IDT</string>
+    <string name="state_name">State Name</string>
+    <string name="population">Population</string>
+    <string name="counties">Counties</string>
+    <string name="sum_of_county_populations">Sum of County Populations</string>
+    <string name="population_matches">Population matches?</string>
+    <string name="search_states">Search states...</string>
+    <string name="filtered_list">Filtered List</string>
+    <string name="open_in_second_screen">Open in second screen</string>
+</resources>
